@@ -1,6 +1,6 @@
 function setQuotationHeaders() {
   const ss = SpreadsheetApp.openById(
-    "11cHTSTjVQC96aTKilPms0tdPbugQRn5uU7GCfCYIh6o"
+    "Spreadsheet-id"
   );
   const sheet = ss.getSheetByName("Quotations");
 
