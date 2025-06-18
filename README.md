@@ -5,7 +5,7 @@ Link: https://docs.google.com/spreadsheets/d/11cHTSTjVQC96aTKilPms0tdPbugQRn5uU7
 
 ## 📝 Objective
 
-Automate the process of extracting quotation details from emails sent by a specific sender (e.g., **Mohan**) and logging them into a Google Sheet, without processing the same email twice — even across multiple runs.
+Automate the process of extracting quotation details from emails and logging them into a Google Sheet, without processing the same email message twice, even across multiple runs.
 
 ---
 
